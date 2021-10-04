@@ -1,0 +1,17 @@
+song_list {
+     color: #FFFFFF;
+     background-color : #6495ED;
+     width: 100%;
+}
+ heading {
+     color: #FFFFFF;
+     font-size : 40px;
+     background-color : AFEEEE;
+}
+ heading, title, artists, genre, year{
+     display : block;
+}
+ title {
+     font-size : 25px;
+     font-weight : bold;
+}
