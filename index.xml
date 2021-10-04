@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="songs.css"?>
+
+<song_list>
+
+<heading>Song List </heading>
+
+<song>
+    <title>Clocks</title>
+    <artists>Coldplay</artists>
+    <genre>Alternative Rock</genre>
+    <year>2003</year>
+</song>
+
+<song>
+    <title>Shots</title>
+    <artists>Imagine Dragons</artists>
+    <genre>Rock</genre>
+    <year>2015</year>
+</song>
+
+<song>
+    <title>Mirrors</title>
+    <artists>Niall Horan</artists>
+    <genre>Pop</genre>
+    <year>2017</year>
+</song>
+
+<song>
+    <title>Reptilia</title>
+    <artists>The Strokes</artists>
+    <genre>Indie</genre>
+    <year>2004</year>
+</song>
+
+<song>
+    <title>Time of Our Lives</title>
+    <artists>Pitbull, Ne-Yo</artists>
+    <genre>Pop</genre>
+    <year>2014</year>
+</song>
+
+<song>
+    <title>Stockholm Syndrome</title>
+    <artists>One Direction</artists>
+    <genre>Pop</genre>
+    <year>2014</year>
+</song>
+
+<song>
+    <title>Life is a Highway</title>
+    <artists>Rascal Flatts</artists>
+    <genre>Rock</genre>
+    <year>2008</year>
+</song>
+
+<song>
+    <title>Every Breath You Take</title>
+    <artists>The Police</artists>
+    <genre>Rock</genre>
+    <year>1983</year>
+</song>
+
+<song>
+    <title>Better Togther</title>
+    <artists>Jack Johnson</artists>
+    <genre>Acoustic Rock</genre>
+    <year>2006</year>
+</song>
+
+<song>
+    <title>Walls</title>
+    <artists>Louis Tomlinson</artists>
+    <genre>Pop</genre>
+    <year>2020</year>
+</song>
+
+</song_list>
